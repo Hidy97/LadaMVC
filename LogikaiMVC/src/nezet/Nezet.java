@@ -15,9 +15,7 @@ public abstract class Nezet {
         nezetbeIr(msg + SEP);
     }
     
-    
-    
     public void eredmenyMegjelenito(String msg){
-        nezetbeIr(SEP);
+        nezetbeIr(msg + SEP);
     }
 }
